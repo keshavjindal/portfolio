@@ -1,11 +1,11 @@
 ### How to run locally
-npm i     
-npm start     
+npm i     <br>
+npm start     <br>
 
 ### How to make changes
-Make changes locally
-npm run build
-git add .
-git commit -m "message"
-git push
-npm run deploy
+Make changes locally <br>
+npm run build <br>
+git add . <br>
+git commit -m "message" <br>
+git push <br>
+npm run deploy <br>
