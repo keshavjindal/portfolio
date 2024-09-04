@@ -1,3 +1,3 @@
 ### How to run locally
-npm i
+npm i     
 npm start
