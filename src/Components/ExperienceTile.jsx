@@ -8,10 +8,12 @@ const ExperienceTile = ({ companyLogo, jobTitle, companyName, jobDescription, du
         <Row className="align-items-start">
           <Col xs={10} md={9}>
             <Card.Title className="font-weight-bold mb-2" style={{ color: '#1a1a6e' }}>
-              {jobTitle}
+              {/* {jobTitle} */}
+              {companyName}
             </Card.Title>
             <Card.Subtitle className="mb-3 text-muted" style={{ marginBottom: '5px', fontWeight: 'bold' }}>
-              {companyName}
+              {/* {companyName} */}
+              {jobTitle}
             </Card.Subtitle>
           </Col>
           <Col xs={2} md={3} className="text-right">
